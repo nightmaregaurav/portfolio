@@ -11,7 +11,7 @@
   "dependencies": {
     "@nightmaregaurav/react-social-media-links": "^1.0.5",
     "@tanstack/react-query": "^5.101.0",
-    "next": "16.2.9",
+    "next": "16.2.11",
     "primeicons": "^7.0.0",
     "primereact": "^10.9.8",
     "prismjs": "^1.30.0",
